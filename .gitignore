@@ -15,7 +15,7 @@ gen
 .settings
 .springBeans
 .sts4-cache
-!**/target
+**/target
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
