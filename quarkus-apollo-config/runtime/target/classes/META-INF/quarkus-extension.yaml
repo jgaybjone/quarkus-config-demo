@@ -1,0 +1,6 @@
+---
+metadata: {}
+group-id: "org.github.keking"
+artifact-id: "quarkus-apollo-config-ext"
+version: "1.0-SNAPSHOT"
+name: "quarkus-apollo-config-ext"

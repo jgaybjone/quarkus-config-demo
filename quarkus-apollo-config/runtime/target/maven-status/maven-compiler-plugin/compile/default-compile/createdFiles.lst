@@ -1,0 +1,8 @@
+org/github/keking/apollo/ApolloConfigSource.class
+org/github/keking/apollo/ApolloConfigRecorder$EmptyConfigSourceProvider.class
+org/github/keking/apollo/ApolloConfig.class
+org/github/keking/apollo/ApolloConfigRecorder.class
+org/github/keking/apollo/ApolloConfigSourceProvider.class
+org/github/keking/apollo/ApolloConfig$$accessor.class
+META-INF/quarkus-javadoc.properties
+META-INF/quarkus-config-roots.list
